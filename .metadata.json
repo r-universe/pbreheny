@@ -1,0 +1,14 @@
+[
+  {
+    "package": "grpreg",
+    "oncran": true
+  },
+  {
+    "package": "ncvreg",
+    "oncran": true
+  },
+  {
+    "package": "visreg",
+    "oncran": true
+  }
+]
