@@ -1,9 +1,5 @@
 [
   {
-    "package": "grpreg",
-    "oncran": true
-  },
-  {
     "package": "ncvreg",
     "oncran": true
   },
