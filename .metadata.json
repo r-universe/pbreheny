@@ -1,10 +1,10 @@
 [
   {
-    "package": "ncvreg",
+    "package": "grpreg",
     "oncran": true
   },
   {
-    "package": "grpreg",
+    "package": "ncvreg",
     "oncran": true
   },
   {

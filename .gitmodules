@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ncvreg"]
-	path = ncvreg
-	url = https://github.com/pbreheny/ncvreg
-	shallow = true
-	registered = true
 [submodule "grpreg"]
 	path = grpreg
 	url = https://github.com/pbreheny/grpreg
+	shallow = true
+	registered = true
+[submodule "ncvreg"]
+	path = ncvreg
+	url = https://github.com/pbreheny/ncvreg
 	shallow = true
 	registered = true
 [submodule "visreg"]
