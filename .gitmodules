@@ -11,6 +11,9 @@
 [submodule "ncvreg"]
 	path = ncvreg
 	url = https://github.com/pbreheny/ncvreg
+[submodule "plmmr"]
+	path = plmmr
+	url = https://github.com/pbreheny/plmmr
 [submodule "visreg"]
 	path = visreg
 	url = https://github.com/pbreheny/visreg
